@@ -30,4 +30,27 @@ To achieve bonus points, I implemented the following:
 - **GitHub Pages/Cloudflare Pages:** For hosting the website.
 
 ## Project Structure
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+freeCodeCamp
+
+W3Schools
+
+Coursera
+
+The Odin Project
+
+Google Fonts
+
+GitHub Pages
+
+Cloudflare Pages
+
+Roadmap.sh Portfolio Website
+
+Thank you for visiting my personal portfolio website. I hope you enjoy exploring my projects and learning more about my journey as a frontend developer. Feel free to connect with me on LinkedIn and GitHub.
+
+© 2025 Hussein Salim. All rights reserved.
 
